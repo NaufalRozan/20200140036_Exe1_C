@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TodoAppsExercise</string>
+    <string name="judul">Selamat Datang di Todo App</string>
+    <string name="jnama">Nama</string>
+    <string name="inama">Masukkan Nama</string>
+    <string name="jpassword">Password</string>
+    <string name="ipassword">Masukkan Password</string>
+    <string name="signin">Sign-In</string>
+    <string name="pertanyaan">How to Todo App?</string>
+    <string name="register">Register</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="jtask">Task</string>
+    <string name="itask">Masukkan Task</string>
+    <string name="jjenis">Jenis Task</string>
+    <string name="ijenis">Masukkan Jenis Task</string>
+    <string name="jtime">Time Task</string>
+    <string name="itime">Masukkan Lama Task</string>
+    <string name="txtask">Ini Hasil Task</string>
+    <string name="txjenis">Ini Hasil Jenis</string>
+    <string name="txtime">Ini Hasil Waktu</string>
+    <string name="label2">Todo App</string>
+    <string name="mSubmit">Submit</string>
+    <string name="mLogout">Log-Out</string>
+    <string name="jemail">Email</string>
+    <string name="iemail">Masukkan Email</string>
+    <string name="jrepass">Re-Password</string>
+    <string name="txnama">ini Nama</string>
+</resources>
